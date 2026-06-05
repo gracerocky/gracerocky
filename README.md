@@ -1,4 +1,4 @@
-## Hi there 👋
+## hi you can call me flynn or joey ! 
 
 <!--
 **gracerocky/gracerocky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
