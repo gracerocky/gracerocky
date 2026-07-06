@@ -1,4 +1,4 @@
-## hi you can call me flynn or joey ! 
+## hi you can call me flynn or joel ! 
 ![image alt](https://github.com/gracerocky/gracerocky/blob/146abfe8eb914c511a62a83fbcdc271a3a109d09/drunk%20sebastian%20stan%20winter%20soldier%20bucky%20barnes.jfif)
 <!--
 **gracerocky/gracerocky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
