@@ -1,6 +1,6 @@
 ## hi you can call me flynn or joel ! 
-![image alt](https://github.com/gracerocky/gracerocky/blob/146abfe8eb914c511a62a83fbcdc271a3a109d09/drunk%20sebastian%20stan%20winter%20soldier%20bucky%20barnes.jfif)
-<!--
+<!--<img width="500" height="300" alt="7c692872203ffb49fed73eb962ea47e1" src="https://github.com/user-attachments/assets/4b5c93f2-346a-415d-a3f5-4960ad2b3517" />
+
 **gracerocky/gracerocky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
