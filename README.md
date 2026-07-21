@@ -1,5 +1,5 @@
 ## hi you can call me flynn or joel ! 
-<!--<img width="500" height="300" alt="7c692872203ffb49fed73eb962ea47e1" src="https://github.com/user-attachments/assets/4b5c93f2-346a-415d-a3f5-4960ad2b3517" />
+<img width="245" height="250" alt="d9bc4c4da416efaf2f2fb78887586537" src="https://github.com/user-attachments/assets/d6fadcf8-f788-4ea3-ae0b-31c9be7c17a2" />
 
 **gracerocky/gracerocky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
